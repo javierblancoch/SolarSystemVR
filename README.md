@@ -3,3 +3,8 @@ Solar system in virtual reality using the A-Frame web framework, simple interact
 
 ![Screenshot de RetroPyCar](captura1.png)
 ![Screenshot de RetroPyCar](captura2.png)
+
+## Credits
+
+- https://github.com/aframevr/aframe
+- https://github.com/IdeaSpaceVR/aframe-particle-system-component
