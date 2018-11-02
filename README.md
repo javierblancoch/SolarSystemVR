@@ -5,7 +5,7 @@ Solar system in virtual reality using the A-Frame web framework, simple interact
 ![Screenshot de RetroPyCar](captura2.png)
 
 ## Live demonstration
-
+Visit:
 - https://javierblancoch.github.io/SolarSystemVR/index.html
 
 ## Credits
