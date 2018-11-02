@@ -9,6 +9,6 @@ Solar system in virtual reality using the A-Frame web framework, simple interact
 - https://javierblancoch.github.io/SolarSystemVR/index.html
 
 ## Credits
-
+This project would not be possible without:
 - https://github.com/aframevr/aframe
 - https://github.com/IdeaSpaceVR/aframe-particle-system-component
