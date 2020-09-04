@@ -20,10 +20,10 @@
             </a-animation>
 
             <a-entity id="datos" visible="false" position="0 3.5 -4" geometry="primitive: plane; height: 5; width: 5" material="side: double">
-              <a-text font="monoid" id="planeta_text" position="-1 2 0" width="14" value ="Planeta" color="#000"></a-text>
-              <a-text font="dejavu" id="masa_text" position="-2 1 0" width="7" value ="Datos interesantes" color="#000"></a-text>
-              <a-text font="dejavu" id="volumen_text" position="-2 0 0" width="7" value ="Datos interesantes" color="#000"></a-text>
-              <a-text font="dejavu" id="gravedad_text" position="-2 -1 0" width="7" value ="Datos interesantes" color="#000"></a-text>
+              <a-text font="monoid" id="planeta_text" position="-1 2 0" width="14" value ="Cargando..." color="#000"></a-text>
+              <a-text font="dejavu" id="masa_text" position="-2 1 0" width="7" value ="Cargando..." color="#000"></a-text>
+              <a-text font="dejavu" id="volumen_text" position="-2 0 0" width="7" value ="Cargando..." color="#000"></a-text>
+              <a-text font="dejavu" id="gravedad_text" position="-2 -1 0" width="7" value ="Cargando..." color="#000"></a-text>
             </a-entity>
         
           </a-entity>
@@ -31,6 +31,7 @@
     </a-entity>
 
       <a-sphere id="sol" position="0 2 -7" radius="3.5" src="https://cdn.glitch.com/c1051546-359f-4e34-b17d-bd2b8900be35%2Fthumbnails%2F2k_sun.jpg?1599075846071">
+        <a-entity position="0 -3 -1" particle-system="color: #EF0000,#44CC00;size: 0.2;maxAge:10;particleCount:300;texture:https://cdn.glitch.com/c1051546-359f-4e34-b17d-bd2b8900be35%2Fthumbnails%2F2k_sun.jpg?1599075846071"></a-entity>
       </a-sphere>
 
       <a-sphere id="mercurio" position="5 2 -4" radius="0.5" src="https://cdn.glitch.com/c1051546-359f-4e34-b17d-bd2b8900be35%2Fthumbnails%2F2k_mercury.jpg?1599076763523">
@@ -80,4 +81,3 @@
     <script type="text/javascript" src="js/app.js"></script>
   </body>
 </html>
-
