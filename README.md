@@ -13,3 +13,4 @@ This project would not be possible without:
 - https://github.com/aframevr/aframe
 - https://github.com/IdeaSpaceVR/aframe-particle-system-component
 - https://www.solarsystemscope.com/textures/
+- https://api.le-systeme-solaire.net/
